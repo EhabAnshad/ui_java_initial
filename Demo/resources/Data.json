@@ -1,0 +1,17 @@
+{
+	"systemAdmin": 
+	{
+		"username": "integrantqa+amazon@gmail.com",
+		"password": "P@ssW0rd",
+		"firstName": "integrantqa"
+	},
+	"AppUrls":
+	{"AuthUrl":"orangehrm-3.0.1/symfony/web/index.php/auth/login",
+	},
+	
+	"login": 
+	{
+		"username": "",
+		"password": ""
+	},
+}
